@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai2_Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2259b1fafca05ca7bf5912e558224c269c970154")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai2_Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai2_Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai1_PhanSO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2259b1fafca05ca7bf5912e558224c269c970154")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai1_PhanSO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai1_PhanSO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

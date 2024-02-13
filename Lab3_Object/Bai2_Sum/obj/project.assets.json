@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Bai2_Sum\\Bai2_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Bai2_Sum\\Bai2_Sum.csproj",
       "projectName": "Bai2_Sum",
-      "projectPath": "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Bai2_Sum\\Bai2_Sum.csproj",
+      "projectPath": "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Bai2_Sum\\Bai2_Sum.csproj",
       "packagesPath": "C:\\Users\\tytyt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Bai2_Sum\\obj\\",
+      "outputPath": "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Bai2_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tytyt\\AppData\\Roaming\\NuGet\\NuGet.Config",

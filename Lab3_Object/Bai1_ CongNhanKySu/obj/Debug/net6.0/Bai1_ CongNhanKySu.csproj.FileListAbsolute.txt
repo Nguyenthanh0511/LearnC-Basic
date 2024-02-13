@@ -1,0 +1,15 @@
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\bin\Debug\net6.0\Bai1_ CongNhanKySu.exe
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\bin\Debug\net6.0\Bai1_ CongNhanKySu.deps.json
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\bin\Debug\net6.0\Bai1_ CongNhanKySu.runtimeconfig.json
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\bin\Debug\net6.0\Bai1_ CongNhanKySu.dll
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\bin\Debug\net6.0\Bai1_ CongNhanKySu.pdb
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.AssemblyInfoInputs.cache
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.AssemblyInfo.cs
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.csproj.CoreCompileInputs.cache
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.sourcelink.json
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.dll
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\refint\Bai1_ CongNhanKySu.dll
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.pdb
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\Bai1_ CongNhanKySu.genruntimeconfig.cache
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Bai1_ CongNhanKySu\obj\Debug\net6.0\ref\Bai1_ CongNhanKySu.dll

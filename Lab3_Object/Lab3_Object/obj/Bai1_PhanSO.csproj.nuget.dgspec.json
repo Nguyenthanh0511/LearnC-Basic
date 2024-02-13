@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj": {}
+    "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj": {
+    "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj",
+        "projectUniqueName": "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj",
         "projectName": "Bai1_PhanSO",
-        "projectPath": "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj",
+        "projectPath": "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Lab3_Object\\Bai1_PhanSO.csproj",
         "packagesPath": "C:\\Users\\tytyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tytyt\\Documents\\VS\\ThietKeLapTrinhBackend\\Lab3_Object\\Lab3_Object\\obj\\",
+        "outputPath": "C:\\Users\\tytyt\\Documents\\USB_MSI\\VS\\ThietKeLapTrinhBackend\\Exercise\\Lab3_Object\\Lab3_Object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tytyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
