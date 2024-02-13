@@ -1,0 +1,15 @@
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\bin\Debug\net6.0\Excample17.exe
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\bin\Debug\net6.0\Excample17.deps.json
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\bin\Debug\net6.0\Excample17.runtimeconfig.json
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\bin\Debug\net6.0\Excample17.dll
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\bin\Debug\net6.0\Excample17.pdb
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.AssemblyInfoInputs.cache
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.AssemblyInfo.cs
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.csproj.CoreCompileInputs.cache
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.sourcelink.json
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.dll
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\refint\Excample17.dll
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.pdb
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\Excample17.genruntimeconfig.cache
+E:\Visual Studio\HWork\LearnC-Basic\Excample\Excample17\obj\Debug\net6.0\ref\Excample17.dll

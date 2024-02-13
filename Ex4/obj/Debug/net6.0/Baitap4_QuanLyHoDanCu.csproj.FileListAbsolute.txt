@@ -1,0 +1,15 @@
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\bin\Debug\net6.0\Baitap4_QuanLyHoDanCu.exe
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\bin\Debug\net6.0\Baitap4_QuanLyHoDanCu.deps.json
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\bin\Debug\net6.0\Baitap4_QuanLyHoDanCu.runtimeconfig.json
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\bin\Debug\net6.0\Baitap4_QuanLyHoDanCu.dll
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\bin\Debug\net6.0\Baitap4_QuanLyHoDanCu.pdb
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.AssemblyInfoInputs.cache
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.AssemblyInfo.cs
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.csproj.CoreCompileInputs.cache
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.sourcelink.json
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.dll
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\refint\Baitap4_QuanLyHoDanCu.dll
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.pdb
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\Baitap4_QuanLyHoDanCu.genruntimeconfig.cache
+C:\Users\tytyt\Documents\VS\ThietKeLapTrinhBackend\Exercise\Lab3_Object\Baitap4_QuanLyHoDanCu\obj\Debug\net6.0\ref\Baitap4_QuanLyHoDanCu.dll
